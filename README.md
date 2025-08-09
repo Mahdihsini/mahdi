@@ -1,5 +1,5 @@
 :root{
-  --bg:#fafaf;
+  --bg:#fafafa;
   --card:#fff;
   --accent:#2b7a78;
   --muted:#666;
