@@ -72,3 +72,4 @@ li.plan{
   border-radius:6px;
 }
 .muted{color:var(--muted); margin-top:8px}
+have a nice day
