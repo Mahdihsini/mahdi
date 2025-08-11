@@ -73,5 +73,5 @@ li.plan{
 }
 .muted{color:var(--muted); margin-top:8px}
 have a nice day
-goodbye
+
 here i am
