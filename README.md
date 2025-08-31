@@ -5,7 +5,7 @@
   --muted:#666;
 }
 *{box-sizing:border-box}
-body{
+
   font-family: "Tahoma", sans-serif;
   background:var(--bg);
   margin:0;
