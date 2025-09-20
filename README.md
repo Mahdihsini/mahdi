@@ -3,7 +3,6 @@
   --card:#fff;
   --accent:#2b7a78;
   --muted:#666;
-}
 *{box-sizing:border-box}
 first
   font-family: "Tahoma", sans-serif;
