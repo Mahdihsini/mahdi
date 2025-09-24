@@ -82,7 +82,6 @@ hello
 great to see you
 good
 white house
-byefor now
 have a great roll
 nice part team
 watermelon
