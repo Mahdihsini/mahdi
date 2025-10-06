@@ -80,7 +80,3 @@ have fun
 good night
 hello
 great to see you
-good
-white house
-have a great roll
-boos boos
