@@ -78,5 +78,4 @@ great to meet you
 give is to me
 have fun
 good night
-hello
-great to see you
+
