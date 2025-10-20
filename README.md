@@ -74,5 +74,3 @@ li.plan{
 have a nice day
 what ca i do?
 here i am
-great to meet you
-give is to me
