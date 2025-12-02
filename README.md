@@ -77,4 +77,4 @@ hello
 bol bol
 https://x.com/mahdi_hsini/status/1990441276076925342?s=20
 Gmicrochains
-The power of community makes Umi stronger together 💪 #UmiOdyssey
+
