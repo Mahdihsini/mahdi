@@ -75,4 +75,3 @@ have a nice day
 gol boly
 hello
 bol bol
-https://x.com/mahdi_hsini/status/1990441276076925342?s=20
